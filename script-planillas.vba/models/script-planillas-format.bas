@@ -1,4 +1,4 @@
-Sub test4()
+Sub generarplanilla()
     Dim wbNuevo As Workbook
     Dim wsOrigen As Worksheet
     Dim wsDestino As Worksheet
