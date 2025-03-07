@@ -1,2 +1,4 @@
 # scripts-vbs
-In this space, I will include all the designed scripts created by me, with an explanation of their function and the reason for their creation  Here we seek to create scripts to automate tasks in different sectors for companies.  Programming language - VBA and python
+En este repositorio, podremos ver algunos scripts creados por mi, algunos fueron creados por peticiones de personas cercanas, empresas o problemas los cuales quize automatizar
+cada script tiene un README, en el cual se explicara mas a fondo su funcionamiento y su razon de ser, por que existe y en que ayuda, tambien se haran anotaciones sobre lo
+aprendido y las tecnologias usadas, gracias por tu atencion.
